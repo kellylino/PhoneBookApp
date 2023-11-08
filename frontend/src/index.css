@@ -1,0 +1,18 @@
+.success {
+  border: 3px solid rgb(62, 168, 108);
+  background-color: rgb(183, 194, 198);
+  border-color:rgb(62, 168, 108);
+  border-radius: 5px;
+  padding: 10px;
+  }
+
+.error {
+  border: 3px solid rgb(170, 46, 24);
+  background-color: rgb(183, 194, 198);
+  border-color:rgb(170, 46, 24);
+  border-radius: 5px;
+  padding: 10px;
+
+}
+
+
